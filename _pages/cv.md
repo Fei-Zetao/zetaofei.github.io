@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+======
 Education
 ======
 * Ph.D in Mathematics, The Hong Kong University of Science and Technology, 2024
