@@ -19,14 +19,15 @@ Education
 
 Academic experience
 ======
-* Sept. 2024 - Now: Postdoctoral Fellow
-  * Ecole Polytechnique
+* Sept. 2024 - Now: Postdoctoral Fellow, Ecole Polytechnique
   * Supervisor: Prof. Josselin Garnier
 
 
 Honors
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* HKUST RedBird Academic Excellence Award for Continuing PhD Students, 2023-24.
+* HKUST RedBird Academic Excellence Award for Continuing PhD Students, 2022-23.
+* Best TA Award for Din-Yu Hsieh Teaching Awards, Department of Mathematics, HKUST, 2021-22.
+* Best TA Award for Din-Yu Hsieh Teaching Awards, Department of Mathematics, HKUST, 2019-20.
+
+
