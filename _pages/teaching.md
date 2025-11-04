@@ -6,10 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 {% include base_path %}
 
 At HKUST, Teaching Assistant
 ======
+
 * Multivariable Calculus, Spring 2020.
 * Real Analysis, Fall 2020 & Spring 2021.
 * Calculus and Linear Algebra, Fall 2021.
