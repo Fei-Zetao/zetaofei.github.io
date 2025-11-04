@@ -11,7 +11,7 @@ I am currently a Postdoctoral Fellow at the Centre de Mathématiques Appliquées
 
 Previously, I obtained my Ph.D. in Mathematics from the Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Hai Zhang.
 
-My research interests include inverse problems, imaging, wave physics, and signal processing.
+My research interests include inverse problems and imaging, wave physics, and signal processing.
 
 
 A data-driven personal website
